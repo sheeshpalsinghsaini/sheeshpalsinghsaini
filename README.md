@@ -22,7 +22,7 @@
 <h1>Github Status</h1>
 
 
-![shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun-agrawal&hide=issues&show_icons=true&theme=onedark)
+![shagun's github stats](https://github-readme-stats.vercel.app/api?username=sheeshpalsinghsaini&hide=issues&show_icons=true&theme=onedark)
 
 
 <h2>Skills</h2>
