@@ -11,11 +11,11 @@
 
 
 <h2>About Me</h2>  
--> I'm Shagun Agrawal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing  and the backend coding etc.
+-> I'm Sheeshpal Singh from India , and i am a Full stack Developer. I really enjoy learning different technologies especially Web Development using Django etc.
 <h2>find Me On</h2>  
 <p align="left">
-  <a href="https://www.linkedin.com/in/shagun-agrawal-9941b1192/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="shagunagrawal0123@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/" target="_blank"><img align="center" alt="LinkedIn" src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/linkedin.png" /></a>
+  <a href="123sheeshpalsinghsaini@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 </p> 
 
@@ -31,13 +31,12 @@
 </p>
 <h3>Development tools and frameworks:</h3>
 <p>
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/html.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/css.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/bootstrap.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/react.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/shagun-agrawal/shagun-agrawal/blob/main/res/Gir.gif" alt="html5" width="85" height="60"/> 
+  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/html.gif" alt="html5" width="50" height="60"/> 
+  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/css.gif" alt="html5" width="50" height="60"/> 
+  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/bootstrap.gif" alt="html5" width="50" height="60"/> 
+  
+  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/django.png" alt="html5" width="50" height="60"/>  
+  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/Gir.gif" alt="html5" width="85" height="60"/> 
   <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="html5" width="85" height="60"/> 
 </p>
 
