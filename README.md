@@ -56,19 +56,7 @@
    </table>
       
       
-     
-      
-      
-   
-   
 
-
-<h2>find Me On</h2>  
-<p align="left">
-  <a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/" target="_blank"><img align="center" alt="LinkedIn" src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/linkedin.png" height="40"></a>
-  <a href="123sheeshpalsinghsaini@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-</p> 
 
 
 
