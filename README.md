@@ -35,11 +35,11 @@
             <td>9. Docker</td>
             <td>10. Microsoft Azure</td>
       </tr>
-      
       </table>
-      
+  
+  
+  
  <h3> My Technical Tools are : </h3>
- 
  <table>
       <tr>
             <td>1. Postman </td>
@@ -52,8 +52,7 @@
       <tr>
             <td>5. 5. IntelliJ Idea</td>
             <td>6. Eclipse </td>
-      </tr>
-      
+      </tr> 
    </table>
       
       
