@@ -4,9 +4,9 @@
 , Wonder to see you here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!! </h1>
 
 - 🌱 I’m currently working with SpringBoot FrameWork
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
       1. Email ID : 123sheeshpalsinghsaini@gmail.com
-      2. Linked Profile : <br> <a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/" >Click Here</a>
+      2. Linked Profile :<a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/" >Click Here</a>
 - ⚡ Strength: Smart and fast learner and always ready to learn new things (I beleive in writing my own story sgn...)
 
 
