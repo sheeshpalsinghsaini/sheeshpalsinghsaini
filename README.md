@@ -6,12 +6,26 @@
 - 🌱 I’m currently working with SpringBoot FrameWork
 - 📫 How to reach me: 
       1. Email ID : 123sheeshpalsinghsaini@gmail.com
-      2. Linked Profile : <a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/">Click Here</a>
+      2. Linked Profile : <br> <a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/" >Click Here</a>
 - ⚡ Strength: Smart and fast learner and always ready to learn new things (I beleive in writing my own story sgn...)
 
 
 <h2>About Me</h2>  
--> I'm Sheeshpal Singh from India , and i am a Full stack Developer. I really enjoy learning different technologies especially Web Development using Django etc.
+-> I'm Sheeshpal Singh from India , and i am a Full stack Developer. I really enjoy learning different technologies especially Web Development etc.
+   My Tech Stacks :
+      1. Java                             2. Javascript
+      3. DSA                              4. Spring Boot Framework
+      5. Angular Framework                6. MySQL Server              
+      7. Linux                            8. ReactJs   
+      9. Docker                           10. Microsoft Azure 
+      
+      
+   Technical Tools :
+      1. Postman                          2. Jira
+      3. git                              4. VS Code Editor
+      4. IntelliJ Idea                    6. Eclipse
+      
+      
 
 
 <h2>find Me On</h2>  
@@ -27,20 +41,7 @@
 ![sheeshpal's github status](https://github-readme-stats.vercel.app/api?username=sheeshpalsinghsaini&hide=issues&show_icons=true&theme=onedark)
 
 
-<h2>Skills</h2>
-<p>
-<img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/js.gif" alt="JavaScript" height="70"><img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/Python.gif" alt="python" height="65"/><img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/cpp.png" alt="cplusplus"height="70"/><img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/c.png" alt="c"height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="65" height="75"/> 
-</p>
-<h3>Development tools and frameworks:</h3>
-<p>
-  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/html.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/css.gif" alt="html5" width="50" height="60"/> 
-  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/bootstrap.gif" alt="html5" width="50" height="60"/> 
-  
-  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/django.png" alt="html5" width="50" height="60"/>  
-  <img src="https://github.com/sheeshpalsinghsaini/sheeshpalsinghsaini/blob/main/res/Gir.gif" alt="html5" width="85" height="60"/> 
-<!--   <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="html5" width="85" height="60"/>  -->
-</p>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeshpalsinghsaini&langs_count=7&layout=compact&theme=onedark" alt="sheeshpalsinghsaini" width="500">
