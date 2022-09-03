@@ -3,9 +3,10 @@
 <h1>Welcome geek <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 , Wonder to see you here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!! </h1>
 
-- 🌱 I’m currently working with Django FrameWork
-- 🥅 2021 Goals: Hired by any MNC
-- 📫 How to reach me: Through my linkedin
+- 🌱 I’m currently working with SpringBoot FrameWork
+- 📫 How to reach me: 
+      1. Email ID : 123sheeshpalsinghsaini@gmail.com
+      2. Linked Profile : <a href="https://www.linkedin.com/in/sheeshpal-singh-33909a192/">Click Here</a>
 - ⚡ Strength: Smart and fast learner and always ready to learn new things (I beleive in writing my own story sgn...)
 
 
