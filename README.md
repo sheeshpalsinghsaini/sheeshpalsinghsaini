@@ -12,6 +12,7 @@
 
 <h2>About Me</h2>  
 -> I'm Sheeshpal Singh from India , and i am a Full stack Developer. I really enjoy learning different technologies especially Web Development etc.
+
 <h3>My Tech Stacks are : </h3>
       <table>
       <tr>
@@ -53,7 +54,7 @@
             <td>6. Eclipse </td>
       </tr>
       
-      </table>
+   </table>
       
       
      
