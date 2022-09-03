@@ -12,20 +12,53 @@
 
 <h2>About Me</h2>  
 -> I'm Sheeshpal Singh from India , and i am a Full stack Developer. I really enjoy learning different technologies especially Web Development etc.
-   My Tech Stacks :
-      1. Java                             2. Javascript
-      3. DSA                              4. Spring Boot Framework
-      5. Angular Framework                6. MySQL Server              
-      7. Linux                            8. ReactJs   
-      9. Docker                           10. Microsoft Azure 
+<h3>My Tech Stacks are : </h3>
+      <table>
+      <tr>
+            <td>1. Java </td>
+            <td> 2. Javascript</td>
+      </tr>
+      <tr>
+            <td>3. DSA</td>
+            <td>4. Spring Boot Framework</td>
+      </tr>
+      <tr>
+            <td>5. Angular Framework</td>
+            <td>6. MySQL Server </td>
+      </tr>
+      <tr>
+            <td>7. Linux </td>
+            <td>8. ReactJs </td>
+      </tr>
+      <tr>
+            <td>9. Docker</td>
+            <td>10. Microsoft Azure</td>
+      </tr>
+      
+      </table>
       
       
-   Technical Tools :
-      1. Postman                          2. Jira
-      3. git                              4. VS Code Editor
-      4. IntelliJ Idea                    6. Eclipse
+      <h3>Technical Tools :</h3>
       
+       <table>
+      <tr>
+            <td>1. Postman </td>
+            <td> 2. Jira</td>
+      </tr>
+      <tr>
+            <td>3. git </td>
+            <td>4. VS Code Editor</td>
+      </tr>
+      <tr>
+            <td>5. 5. IntelliJ Idea</td>
+            <td>6. Eclipse </td>
+      </tr>
+     
       
+      </table>
+   
+   
+   
 
 
 <h2>find Me On</h2>  
@@ -34,11 +67,6 @@
   <a href="123sheeshpalsinghsaini@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 </p> 
-
-<h1>Github Status</h1>
-
-
-![sheeshpal's github status](https://github-readme-stats.vercel.app/api?username=sheeshpalsinghsaini&hide=issues&show_icons=true&theme=onedark)
 
 
 
