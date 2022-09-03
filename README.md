@@ -37,10 +37,9 @@
       
       </table>
       
-      
-      <h3>Technical Tools :</h3>
-      
-       <table>
+ <h3> My Technical Tools are : </h3>
+ 
+ <table>
       <tr>
             <td>1. Postman </td>
             <td> 2. Jira</td>
@@ -53,10 +52,13 @@
             <td>5. 5. IntelliJ Idea</td>
             <td>6. Eclipse </td>
       </tr>
-     
       
       </table>
-   
+      
+      
+     
+      
+      
    
    
 
